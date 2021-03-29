@@ -56,7 +56,7 @@ pycrypto==2.6.1
 pycups==1.9.66
 pycurl==7.19.3
 pygame===1.9.1release
-Pygments==1.6
+Pygments==2.7.4
 pygobject==3.12.0
 pyOpenSSL==0.13
 pyparsing==2.0.1
