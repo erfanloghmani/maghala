@@ -10,7 +10,7 @@ beautifulsoup4==4.4.0
 billiard==3.3.0.15
 BitTorrent==3.4.2
 ccsm==0.9.11.3
-celery==3.1.6
+celery==5.2.2
 chardet==2.0.1
 CherryPy==3.2.2
 cl==0.0.3
