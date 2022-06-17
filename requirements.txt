@@ -42,7 +42,7 @@ Markdown==2.4
 mechanize==0.2.5
 mygpoclient==1.7
 netifaces==0.8
-numpy==1.8.2
+numpy==1.21.0
 oauthlib==0.6.1
 oneconf==0.3.7.14.4.1
 openshot==1.4.3
